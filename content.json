@@ -1,0 +1,28 @@
+{
+    "Format": "1.29.0",
+    "Changes": [
+        // define language
+        {
+            "Action": "EditData",
+            "Target": "Data/AdditionalLanguages",
+            "Entries": {
+                "Jolesh.StardewValleyEsperanto": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
+                    "ID": "Jolesh.StardewValleyEsperanto",
+                    "LanguageCode": "eo",
+                    "ButtonTexture": "Mods/Jolesh.StardewValleyEsperanto/Button",
+                    "UseLatinFont": true,
+                    "TimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
+                }
+            }
+        },
+
+        // load button texture
+        {
+            "Action": "Load",
+            "Target": "Mods/Jolesh.StardewValleyEsperanto/Button",
+            "FromFile": "assets/button.png"
+        }
+    ]
+}

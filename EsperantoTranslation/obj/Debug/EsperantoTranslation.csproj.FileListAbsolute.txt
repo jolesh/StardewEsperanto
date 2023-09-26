@@ -1,4 +1,0 @@
-/home/jolesh/Nextcloud/Jonas/Development/Modding/Stardew/EsperantoTranslation/EsperantoTranslation/EsperantoTranslation/bin/Debug/EsperantoTranslation.dll
-/home/jolesh/Nextcloud/Jonas/Development/Modding/Stardew/EsperantoTranslation/EsperantoTranslation/EsperantoTranslation/obj/Debug/EsperantoTranslation.csproj.AssemblyReference.cache
-/home/jolesh/Nextcloud/Jonas/Development/Modding/Stardew/EsperantoTranslation/EsperantoTranslation/EsperantoTranslation/obj/Debug/EsperantoTranslation.csproj.CoreCompileInputs.cache
-/home/jolesh/Nextcloud/Jonas/Development/Modding/Stardew/EsperantoTranslation/EsperantoTranslation/EsperantoTranslation/obj/Debug/EsperantoTranslation.dll
