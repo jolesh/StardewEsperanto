@@ -23,6 +23,28 @@
             "Action": "Load",
             "Target": "Mods/Jolesh.StardewValleyEsperanto/Button",
             "FromFile": "assets/button.png"
+        },
+
+        //load Minigames folder
+
+        {
+            "Action": "Load",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "Minigames/TitleButtons.eo-EO.png",
+            "When": {
+              "Language": "eo"
+          }
+        },
+
+        //load strings folder
+
+        {
+          "Action": "Load",
+          "Target": "Strings/BundleNames",
+          "FromFile": "Strings/BundleNames.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
         }
     ]
 }
