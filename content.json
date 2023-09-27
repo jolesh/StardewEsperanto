@@ -45,6 +45,22 @@
           "When": {
             "Language": "eo"
           }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Events",
+          "FromFile": "Strings/Events.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/UI",
+          "FromFile": "Strings/UI.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
         }
     ]
 }
