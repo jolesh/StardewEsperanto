@@ -29,6 +29,22 @@
 
         {
             "Action": "Load",
+            "Target": "Minigames/Intro",
+            "FromFile": "Minigames/Intro.eo-EO.png",
+            "When": {
+              "Language": "eo"
+          }
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/jojacorps",
+            "FromFile": "Minigames/jojacorps.eo-EO.png",
+            "When": {
+              "Language": "eo"
+          }
+        },
+        {
+            "Action": "Load",
             "Target": "Minigames/TitleButtons",
             "FromFile": "Minigames/TitleButtons.eo-EO.png",
             "When": {
