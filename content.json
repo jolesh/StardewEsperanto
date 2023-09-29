@@ -61,6 +61,209 @@
           "When": {
             "Language": "eo"
           }
+        },
+
+        //load Data folder
+
+        {
+          "Action": "Load",
+          "Target": "Data/Achievments",
+          "FromFile": "Data/Achievments.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/BigCraftablesInformation",
+          "FromFile": "Data/BigCraftablesInformation.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Blueprints",
+          "FromFile": "Data/Blueprints.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Boots",
+          "FromFile": "Data/Boots.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Bundles",
+          "FromFile": "Data/Bundles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/ClothingInformation",
+          "FromFile": "Data/ClothingInformation.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Concessions",
+          "FromFile": "Data/Concessions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/CookingRecipes",
+          "FromFile": "Data/CookingRecipes.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/CraftingRecipes",
+          "FromFile": "Data/CraftingRecipes.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/EngagementDialogue",
+          "FromFile": "Data/EngagementDialogue.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/ExtraDialogue",
+          "FromFile": "Data/ExtraDialogue.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/FarmAnimals",
+          "FromFile": "Data/FarmAnimals.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Fish",
+          "FromFile": "Data/Fish.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Furniture",
+          "FromFile": "Data/Furniture.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/hats",
+          "FromFile": "Data/hats.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/mail",
+          "FromFile": "Data/mail.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Monsters",
+          "FromFile": "Data/Monsters.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Movies",
+          "FromFile": "Data/Movies.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/MoviesReactions",
+          "FromFile": "Data/MoviesReactions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/NPCDispositions",
+          "FromFile": "Data/NPCDispositions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/NPCGiftTastes",
+          "FromFile": "Data/NPCGiftTastes.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/ObjectInformation",
+          "FromFile": "Data/ObjectInformation.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Quests",
+          "FromFile": "Data/Quests.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/SecretNotes",
+          "FromFile": "Data/SecretNotes.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/weapons",
+          "FromFile": "Data/weapons.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
         }
     ]
 }
