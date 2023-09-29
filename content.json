@@ -264,6 +264,465 @@
           "When": {
             "Language": "eo"
           }
+        },
+
+        //Data/Events
+
+
+        {
+          "Action": "Load",
+          "Target": "Data/Events/AbandonedJojaMart",
+          "FromFile": "Data/Events/AbandonedJojaMart.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/AnimalShop",
+          "FromFile": "Data/Events/AnimalShop.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/ArchaeologyHouse",
+          "FromFile": "Data/Events/ArchaeologyHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Backwoods",
+          "FromFile": "Data/Events/Backwoods.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/BathHouse_Pool",
+          "FromFile": "Data/Events/BathHouse_Pool.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Beach",
+          "FromFile": "Data/Events/Beach.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/BoatTunnel",
+          "FromFile": "Data/Events/BoatTunnel.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/BusStop",
+          "FromFile": "Data/Events/BusStop.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/CommunityCenter",
+          "FromFile": "Data/Events/CommunityCenter.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/ElliottHouse",
+          "FromFile": "Data/Events/ElliottHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Farm",
+          "FromFile": "Data/Events/Farm.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/FarmHouse",
+          "FromFile": "Data/Events/FarmHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/FishShop",
+          "FromFile": "Data/Events/FishShop.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Forest",
+          "FromFile": "Data/Events/Forest.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/HaleyHouse",
+          "FromFile": "Data/Events/HaleyHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/HarveyRoom",
+          "FromFile": "Data/Events/HarveyRoom.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Hospital",
+          "FromFile": "Data/Events/Hospital.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/IslandHut",
+          "FromFile": "Data/Events/IslandHut.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/IslandNorth",
+          "FromFile": "Data/Events/IslandNorth.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/IslandSouth",
+          "FromFile": "Data/Events/IslandSouth.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/IslandWest",
+          "FromFile": "Data/Events/IslandWest.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/JoshHouse",
+          "FromFile": "Data/Events/JoshHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/LeahHouse",
+          "FromFile": "Data/Events/LeahHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/ManorHouse",
+          "FromFile": "Data/Events/ManorHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Mine",
+          "FromFile": "Data/Events/Mine.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Mountain",
+          "FromFile": "Data/Events/Mountain.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/QiNutRoom",
+          "FromFile": "Data/Events/QiNutRoom.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Railroad",
+          "FromFile": "Data/Events/Railroad.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Saloon",
+          "FromFile": "Data/Events/Saloon.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/SamHouse",
+          "FromFile": "Data/Events/SamHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/SandyHouse",
+          "FromFile": "Data/Events/SandyHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/ScienceHouse",
+          "FromFile": "Data/Events/ScienceHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/SebastianRoom",
+          "FromFile": "Data/Events/SebastianRoom.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/SeedShop",
+          "FromFile": "Data/Events/SeedShop.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Sewer",
+          "FromFile": "Data/Events/Sewer.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Sunroom",
+          "FromFile": "Data/Events/Sunroom.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Temp",
+          "FromFile": "Data/Events/Temp.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Tent",
+          "FromFile": "Data/Events/Tent.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Town",
+          "FromFile": "Data/Events/Town.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Trailer",
+          "FromFile": "Data/Events/Trailer.eo-EO.json",
+
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Trailer_Big",
+          "FromFile": "Data/Events/Trailer_Big.eo-EO.json",
+                "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/WizardHouse",
+          "FromFile": "Data/Events/WizardHouse.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/Woods",
+          "FromFile": "Data/Events/Woods.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+
+        //Data/Festivals
+
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/fall16",
+          "FromFile": "Data/Festivals/fall16.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/fall27",
+          "FromFile": "Data/Festivals/fall27.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/FestivalDates",
+          "FromFile": "Data/Festivals/FestivalDates.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/spring13",
+          "FromFile": "Data/Festivals/spring13.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/spring24",
+          "FromFile": "Data/Festivals/spring24.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/summer11",
+          "FromFile": "Data/Festivals/summer11.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/summer28",
+          "FromFile": "Data/Festivals/summer28.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/winter25",
+          "FromFile": "Data/Festivals/winter25.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Festivals/winter8",
+          "FromFile": "Data/Festivals/winter8.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/TV/CookingChannel",
+          "FromFile": "Data/TV/CookingChannel.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+
+        //Data/TV
+
+        {
+          "Action": "Load",
+          "Target": "Data/TV/CookingChannel",
+          "FromFile": "Data/TV/CookingChannel.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/TV/InterviewShow",
+          "FromFile": "Data/TV/InterviewShow.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/TV/TipChannel",
+          "FromFile": "Data/TV/TipChannel.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
         }
     ]
 }
