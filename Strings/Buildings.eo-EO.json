@@ -1,0 +1,17 @@
+{
+  "UnderConstruction": "Under construction.",
+  "DismountBeforeEntering": "Dismount before entering",
+  "PiecesOfHay": "Pieces of Hay: {0}/{1}",
+  "AddedHay": "Added {0} pieces of hay to the silo.",
+  "MillFull": "No space left",
+  "CantMill": "Can't be milled",
+  "NeedSilo": "Silo Required",
+  "CantEnter": "Can't enter right now",
+  "WrongFishType": "Your {0} doesn't want to live in a {1} pond.",
+  "WrongFishTypeCoral": "{0} can only be placed in a {0} Pond.",
+  "CantPutInPonds": "The {0} wouldn't be happy in there.",
+  "NoFish": "Fish can be placed into this pond.",
+  "PondFull": "This pond is full.",
+  "Paint_Region_Roof": "Roof",
+  "Paint_Region_Building": "Roof"
+}

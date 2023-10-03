@@ -1,0 +1,18 @@
+{
+  "TryingToSleep": "{0} is trying to sleep",
+  "MoodMessage_NewHome_Baby_Male": "{0}'s still a little clumsy from being born. He's curious about his new world.",
+  "MoodMessage_NewHome_Baby_Female": "{0}'s still a little clumsy from being born. She's curious about her new world.",
+  "MoodMessage_NewHome_Adult_Male_1": "{0} seems curious, but a little cautious. He's getting used to the new home.",
+  "MoodMessage_NewHome_Adult_Male_2": "{0} seems curious, but a little cautious. It's a strange new world.",
+  "MoodMessage_NewHome_Adult_Female_1": "{0} seems curious, but a little cautious. She's getting used to the new home.",
+  "MoodMessage_NewHome_Adult_Female_2": "{0} seems curious, but a little cautious. It's a strange new world.",
+  "MoodMessage_LeftOutsideAtNight_Male": "{0} was left outside with the door closed last night... He's grumpy.",
+  "MoodMessage_LeftOutsideAtNight_Female": "{0} was left outside with the door closed last night... She's grumpy.",
+  "MoodMessage_DisturbedByDog_Male": "{0} looks stressed and paranoid today. It seems like something bad happened last night.",
+  "MoodMessage_DisturbedByDog_Female": "{0} looks stressed and paranoid today. It seems like something bad happened last night.",
+  "MoodMessage_Hungry1": "{0} looks grumpy.",
+  "MoodMessage_Hungry2": "{0} is looking a little thin.",
+  "MoodMessage_Sad": "{0} looks sad.",
+  "MoodMessage_Fine": "{0} looks fine.",
+  "MoodMessage_Happy": "{0} looks really happy today!"
+}
