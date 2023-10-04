@@ -18,62 +18,427 @@
             }
         },
 
-        // load button texture
+        // load button texture in assets
         {
             "Action": "Load",
             "Target": "Mods/Jolesh.StardewValleyEsperanto/Button",
             "FromFile": "assets/button.png"
         },
 
-        //load Minigames folder
-
-        {
-            "Action": "Load",
-            "Target": "Minigames/Intro",
-            "FromFile": "Minigames/Intro.eo-EO.png",
-            "When": {
-              "Language": "eo"
-          }
-        },
-        {
-            "Action": "Load",
-            "Target": "Minigames/jojacorps",
-            "FromFile": "Minigames/jojacorps.eo-EO.png",
-            "When": {
-              "Language": "eo"
-          }
-        },
-        {
-            "Action": "Load",
-            "Target": "Minigames/TitleButtons",
-            "FromFile": "Minigames/TitleButtons.eo-EO.png",
-            "When": {
-              "Language": "eo"
-          }
-        },
-
-        //load strings folder
+        // load Characters/Dialogue
 
         {
           "Action": "Load",
-          "Target": "Strings/BundleNames",
-          "FromFile": "Strings/BundleNames.eo-EO.json",
+          "Target": "Characters/Dialogue/Abigail",
+          "FromFile": "Characters/Dialogue/Abigail.eo-EO.json",
           "When": {
             "Language": "eo"
           }
         },
         {
           "Action": "Load",
-          "Target": "Strings/Events",
-          "FromFile": "Strings/Events.eo-EO.json",
+          "Target": "Characters/Dialogue/Alex",
+          "FromFile": "Characters/Dialogue/Alex.eo-EO.json",
           "When": {
             "Language": "eo"
           }
         },
         {
           "Action": "Load",
-          "Target": "Strings/UI",
-          "FromFile": "Strings/UI.eo-EO.json",
+          "Target": "Characters/Dialogue/Caroline",
+          "FromFile": "Characters/Dialogue/Caroline.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Clint",
+          "FromFile": "Characters/Dialogue/Clint.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Demetrius",
+          "FromFile": "Characters/Dialogue/Demetrius.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Dwarf",
+          "FromFile": "Characters/Dialogue/Dwarf.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Elliott",
+          "FromFile": "Characters/Dialogue/Elliott.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Emily",
+          "FromFile": "Characters/Dialogue/Emily.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Evelyn",
+          "FromFile": "Characters/Dialogue/Evelyn.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/George",
+          "FromFile": "Characters/Dialogue/George.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Gil",
+          "FromFile": "Characters/Dialogue/Gil.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Gus",
+          "FromFile": "Characters/Dialogue/Gus.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Haley",
+          "FromFile": "Characters/Dialogue/Haley.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Harvey",
+          "FromFile": "Characters/Dialogue/Harvey.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Jas",
+          "FromFile": "Characters/Dialogue/Jas.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Jodi",
+          "FromFile": "Characters/Dialogue/Jodi.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Kent",
+          "FromFile": "Characters/Dialogue/Kent.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Krobus",
+          "FromFile": "Characters/Dialogue/Krobus.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Leah",
+          "FromFile": "Characters/Dialogue/Leah.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Leo",
+          "FromFile": "Characters/Dialogue/Leo.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/LeoMainland",
+          "FromFile": "Characters/Dialogue/LeoMainland.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Lewis",
+          "FromFile": "Characters/Dialogue/Lewis.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Linus",
+          "FromFile": "Characters/Dialogue/Linus.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Marnie",
+          "FromFile": "Characters/Dialogue/Marnie.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogue",
+          "FromFile": "Characters/Dialogue/MarriageDialogue.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+          "FromFile": "Characters/Dialogue/MarriageDialogueAbigail.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueAlex",
+          "FromFile": "Characters/Dialogue/MarriageDialogueAlex.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueElliott",
+          "FromFile": "Characters/Dialogue/MarriageDialogueElliott.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueEmily",
+          "FromFile": "Characters/Dialogue/MarriageDialogueEmily.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueHaley",
+          "FromFile": "Characters/Dialogue/MarriageDialogueHaley.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+          "FromFile": "Characters/Dialogue/MarriageDialogueHarvey.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+          "FromFile": "Characters/Dialogue/MarriageDialogueKrobus.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueLeah",
+          "FromFile": "Characters/Dialogue/MarriageDialogueLeah.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueMaru",
+          "FromFile": "Characters/Dialogue/MarriageDialogueMaru.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialoguePenny",
+          "FromFile": "Characters/Dialogue/MarriageDialoguePenny.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueSam",
+          "FromFile": "Characters/Dialogue/MarriageDialogueSam.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+          "FromFile": "Characters/Dialogue/MarriageDialogueSebastian.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/MarriageDialogueShane",
+          "FromFile": "Characters/Dialogue/MarriageDialogueShane.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Maru",
+          "FromFile": "Characters/Dialogue/Maru.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Mister Qi",
+          "FromFile": "Characters/Dialogue/Mister Qi.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Pam",
+          "FromFile": "Characters/Dialogue/Pam.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Penny",
+          "FromFile": "Characters/Dialogue/Penny.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Pierre",
+          "FromFile": "Characters/Dialogue/Pierre.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/rainy",
+          "FromFile": "Characters/Dialogue/rainy.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Robin",
+          "FromFile": "Characters/Dialogue/Robin.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Sam",
+          "FromFile": "Characters/Dialogue/Sam.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Sandy",
+          "FromFile": "Characters/Dialogue/Sandy.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Sebastian",
+          "FromFile": "Characters/Dialogue/Sebastian.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Shane",
+          "FromFile": "Characters/Dialogue/Shane.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Vincent",
+          "FromFile": "Characters/Dialogue/Vincent.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Willy",
+          "FromFile": "Characters/Dialogue/Willy.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Characters/Dialogue/Wizard",
+          "FromFile": "Characters/Dialogue/Wizard.eo-EO.json",
           "When": {
             "Language": "eo"
           }
@@ -736,6 +1101,198 @@
           "Action": "Load",
           "Target": "Data/TV/TipChannel",
           "FromFile": "Data/TV/TipChannel.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+
+        //load Minigames folder
+
+        {
+            "Action": "Load",
+            "Target": "Minigames/Intro",
+            "FromFile": "Minigames/Intro.eo-EO.png",
+            "When": {
+              "Language": "eo"
+          }
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/jojacorps",
+            "FromFile": "Minigames/jojacorps.eo-EO.png",
+            "When": {
+              "Language": "eo"
+          }
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "Minigames/TitleButtons.eo-EO.png",
+            "When": {
+              "Language": "eo"
+          }
+        },
+
+        //load Strings folder
+
+        {
+          "Action": "Load",
+          "Target": "Strings/animationDescriptions",
+          "FromFile": "Strings/animationDescriptions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },{
+          "Action": "Load",
+          "Target": "Strings/Buildings",
+          "FromFile": "Strings/Buildings.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/BundleNames",
+          "FromFile": "Strings/BundleNames.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Characters",
+          "FromFile": "Strings/Characters.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/credits",
+          "FromFile": "Strings/credits.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/EnchantmentNames",
+          "FromFile": "Strings/EnchantmentNames.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Events",
+          "FromFile": "Strings/Events.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/FarmAnimals",
+          "FromFile": "Strings/FarmAnimals.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Lexicon",
+          "FromFile": "Strings/Lexicon.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Locations",
+          "FromFile": "Strings/Locations.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Notes",
+          "FromFile": "Strings/Notes.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/NPCNames",
+          "FromFile": "Strings/NPCNames.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Objects",
+          "FromFile": "Strings/Objects.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Quests",
+          "FromFile": "Strings/Quests.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/SpecialOrderStrings",
+          "FromFile": "Strings/SpecialOrderStrings.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/SpeechBubbles",
+          "FromFile": "Strings/SpeechBubbles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/StringsFromCSFiles",
+          "FromFile": "Strings/StringsFromCSFiles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/StringsFromMaps",
+          "FromFile": "Strings/StringsFromMaps.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/UI",
+          "FromFile": "Strings/UI.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+
+        // add TileSheets
+
+        {
+          "Action": "Load",
+          "Target": "TileSheets/furniture",
+          "FromFile": "TileSheets/furniture.eo-EO.json",
           "When": {
             "Language": "eo"
           }
