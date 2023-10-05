@@ -1106,6 +1106,163 @@
           }
         },
 
+        //load Maps folder
+
+
+        {
+          "Action": "Load",
+          "Target": "Maps/bathhouse_tiles",
+          "FromFile": "Maps/bathhouse_tiles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/coopTiles",
+          "FromFile": "Maps/coopTiles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/DesertTiles",
+          "FromFile": "Maps/DesertTiles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/fall_beach",
+          "FromFile": "Maps/fall_beach.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/fall_outdoorsTileSheet",
+          "FromFile": "Maps/fall_outdoorsTileSheet.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/fall_town",
+          "FromFile": "Maps/fall_town.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/Festivals",
+          "FromFile": "Maps/Festivals.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/samshowtiles",
+          "FromFile": "Maps/samshowtiles.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/spring_beach",
+          "FromFile": "Maps/spring_beach.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/springobjects",
+          "FromFile": "Maps/springobjects.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/spring_outdoorsTileSheet",
+          "FromFile": "Maps/spring_outdoorsTileSheet.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/spring_town",
+          "FromFile": "Maps/spring_town.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/summer_beach",
+          "FromFile": "Maps/summer_beach.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/summer_outdoorsTileSheet",
+          "FromFile": "Maps/summer_outdoorsTileSheet.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/summer_town",
+          "FromFile": "Maps/summer_town.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/townInterior",
+          "FromFile": "Maps/townInterior.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/winter_beach",
+          "FromFile": "Maps/winter_beach.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/winter_outdoorsTileSheet",
+          "FromFile": "Maps/winter_outdoorsTileSheet.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Maps/winter_town",
+          "FromFile": "Maps/winter_town.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+
+
         //load Minigames folder
 
         {
