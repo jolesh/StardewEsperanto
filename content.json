@@ -448,8 +448,8 @@
 
         {
           "Action": "Load",
-          "Target": "Data/Achievments",
-          "FromFile": "Data/Achievments.eo-EO.json",
+          "Target": "Data/Achievements",
+          "FromFile": "Data/Achievements.eo-EO.json",
           "When": {
             "Language": "eo"
           }
@@ -1112,7 +1112,7 @@
         {
           "Action": "Load",
           "Target": "Maps/bathhouse_tiles",
-          "FromFile": "Maps/bathhouse_tiles.eo-EO.json",
+          "FromFile": "Maps/bathhouse_tiles.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1120,7 +1120,7 @@
         {
           "Action": "Load",
           "Target": "Maps/coopTiles",
-          "FromFile": "Maps/coopTiles.eo-EO.json",
+          "FromFile": "Maps/coopTiles.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1128,7 +1128,7 @@
         {
           "Action": "Load",
           "Target": "Maps/DesertTiles",
-          "FromFile": "Maps/DesertTiles.eo-EO.json",
+          "FromFile": "Maps/DesertTiles.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1136,7 +1136,7 @@
         {
           "Action": "Load",
           "Target": "Maps/fall_beach",
-          "FromFile": "Maps/fall_beach.eo-EO.json",
+          "FromFile": "Maps/fall_beach.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1144,7 +1144,7 @@
         {
           "Action": "Load",
           "Target": "Maps/fall_outdoorsTileSheet",
-          "FromFile": "Maps/fall_outdoorsTileSheet.eo-EO.json",
+          "FromFile": "Maps/fall_outdoorsTileSheet.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1152,7 +1152,7 @@
         {
           "Action": "Load",
           "Target": "Maps/fall_town",
-          "FromFile": "Maps/fall_town.eo-EO.json",
+          "FromFile": "Maps/fall_town.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1160,7 +1160,7 @@
         {
           "Action": "Load",
           "Target": "Maps/Festivals",
-          "FromFile": "Maps/Festivals.eo-EO.json",
+          "FromFile": "Maps/Festivals.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1168,7 +1168,7 @@
         {
           "Action": "Load",
           "Target": "Maps/samshowtiles",
-          "FromFile": "Maps/samshowtiles.eo-EO.json",
+          "FromFile": "Maps/samshowtiles.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1176,7 +1176,7 @@
         {
           "Action": "Load",
           "Target": "Maps/spring_beach",
-          "FromFile": "Maps/spring_beach.eo-EO.json",
+          "FromFile": "Maps/spring_beach.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1184,7 +1184,7 @@
         {
           "Action": "Load",
           "Target": "Maps/springobjects",
-          "FromFile": "Maps/springobjects.eo-EO.json",
+          "FromFile": "Maps/springobjects.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1192,7 +1192,7 @@
         {
           "Action": "Load",
           "Target": "Maps/spring_outdoorsTileSheet",
-          "FromFile": "Maps/spring_outdoorsTileSheet.eo-EO.json",
+          "FromFile": "Maps/spring_outdoorsTileSheet.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1200,7 +1200,7 @@
         {
           "Action": "Load",
           "Target": "Maps/spring_town",
-          "FromFile": "Maps/spring_town.eo-EO.json",
+          "FromFile": "Maps/spring_town.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1208,7 +1208,7 @@
         {
           "Action": "Load",
           "Target": "Maps/summer_beach",
-          "FromFile": "Maps/summer_beach.eo-EO.json",
+          "FromFile": "Maps/summer_beach.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1216,7 +1216,7 @@
         {
           "Action": "Load",
           "Target": "Maps/summer_outdoorsTileSheet",
-          "FromFile": "Maps/summer_outdoorsTileSheet.eo-EO.json",
+          "FromFile": "Maps/summer_outdoorsTileSheet.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1224,7 +1224,7 @@
         {
           "Action": "Load",
           "Target": "Maps/summer_town",
-          "FromFile": "Maps/summer_town.eo-EO.json",
+          "FromFile": "Maps/summer_town.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1232,7 +1232,7 @@
         {
           "Action": "Load",
           "Target": "Maps/townInterior",
-          "FromFile": "Maps/townInterior.eo-EO.json",
+          "FromFile": "Maps/townInterior.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1240,7 +1240,7 @@
         {
           "Action": "Load",
           "Target": "Maps/winter_beach",
-          "FromFile": "Maps/winter_beach.eo-EO.json",
+          "FromFile": "Maps/winter_beach.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1248,7 +1248,7 @@
         {
           "Action": "Load",
           "Target": "Maps/winter_outdoorsTileSheet",
-          "FromFile": "Maps/winter_outdoorsTileSheet.eo-EO.json",
+          "FromFile": "Maps/winter_outdoorsTileSheet.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1256,7 +1256,7 @@
         {
           "Action": "Load",
           "Target": "Maps/winter_town",
-          "FromFile": "Maps/winter_town.eo-EO.json",
+          "FromFile": "Maps/winter_town.eo-EO.png",
           "When": {
             "Language": "eo"
           }
@@ -1299,7 +1299,8 @@
           "When": {
             "Language": "eo"
           }
-        },{
+        },
+        {
           "Action": "Load",
           "Target": "Strings/Buildings",
           "FromFile": "Strings/Buildings.eo-EO.json",
@@ -1449,7 +1450,7 @@
         {
           "Action": "Load",
           "Target": "TileSheets/furniture",
-          "FromFile": "TileSheets/furniture.eo-EO.json",
+          "FromFile": "TileSheets/furniture.eo-EO.png",
           "When": {
             "Language": "eo"
           }
