@@ -2,9 +2,9 @@
 
 ## Kiel instali
 
-- Instali SMAPI
-- Instali ContentPatcher en la dosierujo "mods"
-- Instali tion ĉi modifikaĵon en la dosierujo "mods"
+- Instali [SMAPI](https://smapi.io/)
+- Instali [ContentPatcher](https://www.nexusmods.com/stardewvalley/mods/1915) en la dosierujo "mods"
+- Instali [tion ĉi modifikaĵon](https://github.com/jolesh/StardewEsperanto/archive/refs/heads/main.zip) en la dosierujo "mods"
 
 ## Kiel Helpi
 
