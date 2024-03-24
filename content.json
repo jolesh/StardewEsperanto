@@ -454,7 +454,7 @@
             "Language": "eo"
           }
         },
-        {
+        /*{
           "Action": "Load",
           "Target": "Data/BigCraftablesInformation",
           "FromFile": "Data/BigCraftablesInformation.eo-EO.json",
@@ -469,7 +469,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
         {
           "Action": "Load",
           "Target": "Data/Boots",
@@ -486,7 +486,7 @@
             "Language": "eo"
           }
         },
-        {
+        /*{
           "Action": "Load",
           "Target": "Data/ClothingInformation",
           "FromFile": "Data/ClothingInformation.eo-EO.json",
@@ -517,7 +517,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
         {
           "Action": "Load",
           "Target": "Data/EngagementDialogue",
@@ -534,7 +534,7 @@
             "Language": "eo"
           }
         },
-        {
+        /*{
           "Action": "Load",
           "Target": "Data/FarmAnimals",
           "FromFile": "Data/FarmAnimals.eo-EO.json",
@@ -557,7 +557,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
         {
           "Action": "Load",
           "Target": "Data/hats",
@@ -582,7 +582,7 @@
             "Language": "eo"
           }
         },
-        {
+        /*{
           "Action": "Load",
           "Target": "Data/Movies",
           "FromFile": "Data/Movies.eo-EO.json",
@@ -605,7 +605,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
         {
           "Action": "Load",
           "Target": "Data/NPCGiftTastes",
@@ -613,7 +613,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },/*
         {
           "Action": "Load",
           "Target": "Data/ObjectInformation",
@@ -621,7 +621,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
         {
           "Action": "Load",
           "Target": "Data/Quests",
@@ -638,14 +638,14 @@
             "Language": "eo"
           }
         },
-        {
+        /*{
           "Action": "Load",
           "Target": "Data/weapons",
           "FromFile": "Data/weapons.eo-EO.json",
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
 
         //Data/Events
 
