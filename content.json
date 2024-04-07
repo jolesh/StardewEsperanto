@@ -11,6 +11,8 @@
                     "LanguageCode": "eo",
                     "ButtonTexture": "Mods/Jolesh.StardewValleyEsperanto/Button",
                     "UseLatinFont": true,
+                    //"UseLatinFont": false,
+                    //"FontFile": "Fonts/Esperanto",
                     "TimeFormat": "[HOURS_24_00]:[MINUTES]",
                     "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
                     "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
@@ -24,7 +26,25 @@
             "Target": "Mods/Jolesh.StardewValleyEsperanto/Button",
             "FromFile": "assets/button.png"
         },
+        /*
+        // load font files
 
+        {
+            "Action": "Load",
+            "Target": "Fonts/Esperanto",
+            "FromFile": "assets/Esperanto.fnt"
+        },
+        {
+            "Action": "Load",
+            "Target": "Fonts/Esperanto_0",
+            "FromFile": "assets/Esperanto_0.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Fonts/Esperanto_1",
+            "FromFile": "assets/Esperanto_1.png"
+        },
+        */
         // load Characters/Dialogue
 
         {
@@ -1294,8 +1314,24 @@
 
         {
           "Action": "Load",
+          "Target": "Strings/1_6_Strings",
+          "FromFile": "Strings/1_6_Strings.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
           "Target": "Strings/animationDescriptions",
           "FromFile": "Strings/animationDescriptions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/BigCraftables",
+          "FromFile": "Strings/BigCraftables.eo-EO.json",
           "When": {
             "Language": "eo"
           }
@@ -1358,6 +1394,14 @@
         },
         {
           "Action": "Load",
+          "Target": "Strings/Furniture",
+          "FromFile": "Strings/Furniture.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
           "Target": "Strings/Lexicon",
           "FromFile": "Strings/Lexicon.eo-EO.json",
           "When": {
@@ -1368,6 +1412,30 @@
           "Action": "Load",
           "Target": "Strings/Locations",
           "FromFile": "Strings/Locations.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/MovieConcessions",
+          "FromFile": "Strings/MovieConcessions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/MovieReactions",
+          "FromFile": "Strings/MovieReactions.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Movies",
+          "FromFile": "Strings/Movies.eo-EO.json",
           "When": {
             "Language": "eo"
           }
@@ -1398,8 +1466,32 @@
         },
         {
           "Action": "Load",
+          "Target": "Strings/Pants",
+          "FromFile": "Strings/Pants.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
           "Target": "Strings/Quests",
           "FromFile": "Strings/Quests.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Shirts",
+          "FromFile": "Strings/Shirts.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/SimpleNonVillagerDialogues",
+          "FromFile": "Strings/SimpleNonVillagerDialogues.eo-EO.json",
           "When": {
             "Language": "eo"
           }
@@ -1440,6 +1532,22 @@
           "Action": "Load",
           "Target": "Strings/UI",
           "FromFile": "Strings/UI.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/Weapons",
+          "FromFile": "Strings/Weapons.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Strings/WorldMap",
+          "FromFile": "Strings/WorldMap.eo-EO.json",
           "When": {
             "Language": "eo"
           }
