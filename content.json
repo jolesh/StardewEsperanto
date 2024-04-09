@@ -1,5 +1,5 @@
 {
-    "Format": "1.29.0",
+    "Format": "2.0.0",
     "Changes": [
         // define language
         {
@@ -738,6 +738,14 @@
           "Action": "Load",
           "Target": "Data/Events/CommunityCenter",
           "FromFile": "Data/Events/CommunityCenter.eo-EO.json",
+          "When": {
+            "Language": "eo"
+          }
+        },
+        {
+          "Action": "Load",
+          "Target": "Data/Events/DesertFestival",
+          "FromFile": "Data/Events/DesertFestival.eo-EO.json",
           "When": {
             "Language": "eo"
           }
