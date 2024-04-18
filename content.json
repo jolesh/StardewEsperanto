@@ -1098,14 +1098,6 @@
             "Language": "eo"
           }
         },
-        {
-          "Action": "Load",
-          "Target": "Data/TV/CookingChannel",
-          "FromFile": "Data/TV/CookingChannel.eo-EO.json",
-          "When": {
-            "Language": "eo"
-          }
-        },
 
         //Data/TV
 
@@ -1116,7 +1108,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },/*
         {
           "Action": "Load",
           "Target": "Data/TV/InterviewShow",
@@ -1124,7 +1116,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        },*/
         {
           "Action": "Load",
           "Target": "Data/TV/TipChannel",
