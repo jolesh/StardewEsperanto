@@ -1,5 +1,7 @@
 # EsperantoTranslation
 
+Se vi havas demandojn kontaktu min.
+
 ## Kiel instali
 
 - Instali [SMAPI](https://smapi.io/)
