@@ -4,10 +4,6 @@
   "RandomPositiveAdjective_AdultMale": "interesa#ekscita#amuza#bona#bonega#rava#ĉarma#mirinda#korvarmiga#magia#nekredebla#aminda#vigla#ĝojiga",
   "RandomPositiveAdjective_AdultFemale": "interesa#ekscita#amuza#bona#bonega#rava#ĉarma#mirinda#korvarmiga#magia#nekredebla#aminda#vigla#ĝojiga",
   "RandomPositiveAdjective_PlaceOrEvent": "ŭaŭinda#interesa#ekscita#amuza#bona#bonega#rava#ĉarma#mirinda#magia#nekredebla#vigla",
-  "RandomNegativeAdjective_Child": "stulta#malsaĝa#idiota#enuiga#teda",
-  "RandomNegativeAdjective_AdultMale": "horora#terura#stulta#malsaĝa#deprimiga#malestiminda#ridinda#malfeliĉa#malĝoja#trista#streĉiga#kompatinda#infaneca",
-  "RandomNegativeAdjective_AdultFemale": "horora#terura#stulta#malsaĝa#deprimiga#malestiminda#ridinda#malfeliĉa#malĝoja#trista#streĉiga#kompatinda#infaneca",
-  "RandomNegativeAdjective_PlaceOrEvent": "horora#terura#stulta#malsaĝa#deprimiga#malestiminda#malfeliĉa#malĝoja#trista#streĉiga",
   "RandomDeliciousAdjective": "bongusta#bongustega#mirinda#kontentiga#pleniga#satiga#delikata#apetitiga#rava",
   "RandomDeliciousAdjective_Child": "bongusta",
   "RandomNegativeFoodAdjective_Child": "aĉa",
@@ -20,7 +16,7 @@
   "Pronoun_Female": "ŝin",
   "QuestionDialogue_Yes": "Jes",
   "QuestionDialogue_No": "Ne",
-  "GenericPlayerTerm": "farmisto",
+  "GenericPlayerTerm": "bienisto",
   "Possessive_Pronoun_Male": "lia",
   "Possessive_Pronoun_Female": "ŝia"
 }
