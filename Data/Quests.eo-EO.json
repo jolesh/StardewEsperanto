@@ -60,5 +60,9 @@
   "127": "Basic/La Kuka Promenado De Haley/Via edzino organizas bonfaran kukpromenadon sur la urboplaco. Ŝi petis, ke vi kunportu ĉokoladan kukon./Eniru la urbeton en suna mateno kun ĉokolada kuko./-1/-1/0/-1/true",
   "128": "SecretLostItem/.../.../.../Abigail 191 100 129/-1/0/-1/false/Tiu kolĉeno! Kie vi trovis ĝin?$7#$b#Nu, dankon pro alporti ĝin al mi, @. Mia patrino neniam scios...$h",
   "129": "SecretLostItem/.../.../.../Caroline 191 50 128/-1/0/-1/false/Kio estas tio? Mia malnova kolĉeno?$s#$b#Tio estas stranga, mi eĉ ne rimarkis, ke ĝi mankas... Nu, dankon pro revenigi ĝin, @.$h",
-  "130": "Basic/La Edzino de la Pirato/Maljunulino loĝanta sur Zingibra Insulo petas vin trovi suveniron de ŝia edzo. Ŝi donis al vi malnovan foton de soldato kiu lavis supren sur la marbordo, esperante ke ĝi helpos iel./Trovu memoraĵon, kiu apartenis al la edzo de Birdie./-1/-1/0/-1/false"
+  "130": "Basic/La Edzino de la Pirato/Maljunulino loĝanta sur Zingibra Insulo petas vin trovi suveniron de ŝia edzo. Ŝi donis al vi malnovan foton de soldato kiu lavis supren sur la marbordo, esperante ke ĝi helpos iel./Trovu memoraĵon, kiu apartenis al la edzo de Birdie./-1/-1/0/-1/false",
+  "131": "Fishing/La Defio de Willy/Willy defiis vin kapti 3 Sablofiŝojn./Kaptu 3 Sablofiŝojn./-1/-1/0/-1/false",
+  "132": "ItemHarvest/Komenco/Se vi volas fariĝi bienisto, vi devas komenci per la bazaĵoj. Nutru viajn kokojn ĉiutage lasante ilin manĝi herbon ekstere, aŭ metante fojnon en iliajn trogojn. Kiam ili maturiĝos, rikoltu ovon!/Kolektu ovon de viaj kokoj./-5/h8 133/100/-1/true",
+  "133": "Building/Manĝigi Bestojn/Robin, la loka ĉarpentisto, loĝas norde de la urbo. Kontraŭ krudmaterialoj kaj mono, ŝi konstruos novajn konstruaĵojn en via bieno. Se vi konstruos silon, vi povos komenci rikolti vian propran herbon per la falĉilo, kaj konservi ĝin por nutri viajn bestojn./Konstruu Silon./Silo/-1/100/-1/true",
+  "134": "Basic/La Giganta Stumpo/La granda arbo sude de mia bieno falis per blovo. Kun 100 durligno, mi povus transformi la stumpo en ion interesan.../Riparu la gigantan stumpon./-1/-1/0/-1/false"
 }
