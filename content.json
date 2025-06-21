@@ -1014,7 +1014,7 @@
         },
 
         //load Maps folder
-
+        /*
 
         {
           "Action": "Load",
@@ -1187,7 +1187,7 @@
             "When": {
               "Language": "eo"
           }
-        },
+        }, */
         {
             "Action": "Load",
             "Target": "Minigames/TitleButtons",
@@ -1446,7 +1446,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }/*,
 
         // add TileSheets
 
@@ -1457,6 +1457,6 @@
           "When": {
             "Language": "eo"
           }
-        }
+        }*/
     ]
 }
