@@ -9,10 +9,11 @@
                 "Jolesh.StardewValleyEsperanto": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
                     "ID": "Jolesh.StardewValleyEsperanto",
                     "LanguageCode": "eo",
-                    "ButtonTexture": "Mods/Jolesh.StardewValleyEsperanto/Button",
-                    "UseLatinFont": true,
-                    //"UseLatinFont": false,
-                    //"FontFile": "Fonts/Esperanto",
+                    "ButtonTexture": "Mods/{{ModId}}/Button",
+                    //"UseLatinFont": true,
+                    "UseLatinFont": false,
+                    "FontFile": "Fonts/Esperanto",
+                    "FontPixelZoom": 3.5,
                     "TimeFormat": "[HOURS_24_00]:[MINUTES]",
                     "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
                     "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
@@ -23,9 +24,29 @@
         // load button texture in assets
         {
             "Action": "Load",
-            "Target": "Mods/Jolesh.StardewValleyEsperanto/Button",
+            "Target": "Mods/{{ModId}}/Button",
             "FromFile": "assets/button.png"
         },
+
+        // load font files
+        {
+            "Action": "Load",
+            "Target": "Fonts/Esperanto",
+            "FromFile": "assets/Esperanto.fnt"
+        },
+        {
+            "Action": "Load",
+            "Target": "Fonts/Esperanto_0",
+            "FromFile": "assets/Esperanto_0.png"
+        },
+
+
+
+
+
+
+
+
         /*
         // load font files
 
