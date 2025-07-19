@@ -29,26 +29,6 @@
         },
 
         // load font files
-        {
-            "Action": "Load",
-            "Target": "Fonts/Esperanto",
-            "FromFile": "assets/Esperanto.fnt"
-        },
-        {
-            "Action": "Load",
-            "Target": "Fonts/Esperanto_0",
-            "FromFile": "assets/Esperanto_0.png"
-        },
-
-
-
-
-
-
-
-
-        /*
-        // load font files
 
         {
             "Action": "Load",
@@ -60,12 +40,16 @@
             "Target": "Fonts/Esperanto_0",
             "FromFile": "assets/Esperanto_0.png"
         },
-        {
+
+    	  {
             "Action": "Load",
-            "Target": "Fonts/Esperanto_1",
-            "FromFile": "assets/Esperanto_1.png"
-        },
-        */
+            "Target": "Fonts/SmallFont, Fonts/SpriteFont1",
+            "FromFile": "assets/{{Target}}_vi1.xnb",
+    		    "When": {
+                "Language": "eo"
+    	  }
+          },
+
         // load Characters/Dialogue
 
         {
