@@ -1,10 +1,10 @@
 {
     "Name": "StardewValley Esperanto",
     "Author": "Jolesh",
-    "Version": "0.1.2",
-    "Description": "A Esperento translation for Stardew Valley, Eperanta traduko por Stardew Valley",
+    "Version": "0.2.0",
+    "Description": "Esperento translation for Stardew Valley, Eperanta traduko por Stardew Valley",
     "UniqueID": "Jolesh.StardewValleyEsperanto",
-    "UpdateKeys": [],
+    "UpdateKeys": [ "Nexus:25067", "GitHub:jolesh/StardewEsperanto" ],
     "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
     }
