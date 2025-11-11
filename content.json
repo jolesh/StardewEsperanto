@@ -1108,7 +1108,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }, */
         {
           "Action": "Load",
           "Target": "Maps/spring_town",
@@ -1116,7 +1116,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }, /*
         {
           "Action": "Load",
           "Target": "Maps/summer_beach",
@@ -1164,7 +1164,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }, */
         {
           "Action": "Load",
           "Target": "Maps/winter_town",
@@ -1172,7 +1172,7 @@
           "When": {
             "Language": "eo"
           }
-        }, */
+        },
 
 
         //load Minigames folder
