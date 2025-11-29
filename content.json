@@ -1092,7 +1092,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }, */
         {
           "Action": "Load",
           "Target": "Maps/springobjects",
@@ -1100,7 +1100,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }, /*
         {
           "Action": "Load",
           "Target": "Maps/spring_outdoorsTileSheet",
@@ -1140,7 +1140,7 @@
           "When": {
             "Language": "eo"
           }
-        }, /*
+        },
         {
           "Action": "Load",
           "Target": "Maps/townInterior",
@@ -1148,7 +1148,7 @@
           "When": {
             "Language": "eo"
           }
-        },
+        }, /*
         {
           "Action": "Load",
           "Target": "Maps/winter_beach",
