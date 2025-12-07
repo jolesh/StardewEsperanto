@@ -1,7 +1,7 @@
 {
     "Name": "StardewValley Esperanto",
     "Author": "Jolesh",
-    "Version": "0.2.0",
+    "Version": "0.2.1",
     "Description": "Esperento translation for Stardew Valley, Eperanta traduko por Stardew Valley",
     "UniqueID": "Jolesh.StardewValleyEsperanto",
     "UpdateKeys": [ "Nexus:25067", "GitHub:jolesh/StardewEsperanto" ],
